@@ -1,0 +1,14 @@
+{
+  "refresh_seconds": 15,
+  "tickers": ["BHP.AX", "CBA.AX", "CSL.AX", "NAB.AX", "WES.AX", "FMG.AX", "WBC.AX", "ANZ.AX"],
+  "holdings": {
+    "BHP.AX": 100,
+    "CBA.AX": 50,
+    "CSL.AX": 20,
+    "NAB.AX": 80,
+    "WES.AX": 40,
+    "FMG.AX": 60,
+    "WBC.AX": 70,
+    "ANZ.AX": 55
+  }
+}
